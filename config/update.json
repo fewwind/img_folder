@@ -1,7 +1,7 @@
 {
-  "status": false,
+  "isForce": false,
   "msg": "【更新】\r\n-发现新版本，请及时更新",
   "url": "http://fir.im/3hse",
-  "latest": "1.1"
+  "latest": "1.0"
 }
 
