@@ -1,7 +1,7 @@
 {
   "isForce": false,
-  "msg": "【更新】\r\n-修复部分机型统计不准确\n-通知栏快捷打开程序",
+  "msg": "【更新】\r\n-亮屏统计更精准\n-支持隐藏后台",
   "url": "http://fir.im/3hse",
-  "latest": "1.3"
+  "latest": "1.4"
 }
 
