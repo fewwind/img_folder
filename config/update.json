@@ -1,7 +1,7 @@
 {
   "isForce": false,
-  "msg": "【更新】\r\n-亮屏统计更精准\n-支持隐藏后台",
+  "msg": "【更新】\r\n-新增显示当天数据\n-更换应用统计算法，精确到秒",
   "url": "http://fir.im/3hse",
-  "latest": "1.4"
+  "latest": "1.5"
 }
 
